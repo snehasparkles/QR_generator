@@ -1,0 +1,29 @@
+body{
+    background-image: linear-gradient(200deg,rgb(198, 198, 247),rgb(230, 166, 245),rgb(252, 185, 185));
+    background-repeat: no-repeat;
+    height: 100vh;
+
+}
+.buttons{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#contain{
+    width: 500px;
+}
+.btns{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.qrspace{
+    margin-top: 30px;
+    display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.image-qr{
+    width: auto;
+    height: auto;
+}
